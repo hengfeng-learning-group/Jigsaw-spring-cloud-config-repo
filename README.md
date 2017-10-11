@@ -1,1 +1,1 @@
-# Jigsaw-spring-cloud-config-repo
+# appointments-repo
